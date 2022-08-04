@@ -4,12 +4,12 @@ npm install prompt-sync
 
 To run enter the following commands-
 
-Implement stack using queue
+Implement stack using queue:
 
 node stack.js
 
 
-Task Queue
+Task Queue:
 
 node taskqueue.js
 
